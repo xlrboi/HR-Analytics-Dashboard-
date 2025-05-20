@@ -1,4 +1,4 @@
-# HR-Analytics-Dashboard [HR_Analytics.csv](https://github.com/user-attachments/files/20344469/HR_Analytics.csv)
+# HR-Analytics-Dashboard 
 
 📊 HR Analytics Dashboard – Power BI Project
 This project is part of my data analytics portfolio and demonstrates how Power BI can be used to derive actionable insights from HR data. The dashboard provides a comprehensive view of workforce trends and employee behavior to support strategic HR decisions.
@@ -50,3 +50,5 @@ Age, Gender, Education, Department, Job Role
 Attrition, Performance Rating, Satisfaction Scores
 
 Years at company, Years in role, Years with current manager
+
+**DATASET USED** : [HR_Analytics.csv](https://github.com/user-attachments/files/20344469/HR_Analytics.csv)
